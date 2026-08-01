@@ -1,0 +1,7 @@
+WEEK 1 LEARNING NOTES:
+1. Two-Pointer Swap Technique: Used in Reversearray and Rotationarray
+to modify values in-place with O(1) space complexity.
+2. Read/Write Placement Pointer: Used in MoveZeroes to filter
+ out numbers sequentially without creating a new array.
+3. Single-Pass Scanning: Used in Minandmax to find upper
+ and lower bounds simultaneously in a single loop, cutting operations in half.
