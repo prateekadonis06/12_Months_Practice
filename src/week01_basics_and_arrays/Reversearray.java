@@ -19,5 +19,7 @@ public class Reversearray {
            System.out.print(num+" ");
        }
 
+
+
     }
 }
