@@ -1,4 +1,4 @@
-package week01_basics_and_arrays;
+package week01_basics_and_arraya;
 
 public class Movezeroes {
     public static void main(String[]args) {
